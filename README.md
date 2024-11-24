@@ -11,6 +11,10 @@
 ![](https://github.com/chonjay21/Screenshots/blob/main/AnimVerlet_UE5.png)
 ![](https://github.com/chonjay21/Screenshots/blob/main/AnimVerlet_Short.gif)
 ![](https://github.com/chonjay21/Screenshots/blob/main/AnimVerlet_Graph.gif)
+* [XPBD verlet simulation]<br />
+![](https://github.com/chonjay21/Screenshots/blob/main/AnimVerlet_String.gif)
+* [Drag and drop collision setup in preview]<br />
+![](https://github.com/chonjay21/Screenshots/blob/main/AnimVerlet_Collision.gif)
 
 <br />
 
@@ -23,6 +27,8 @@ Find me at:
 <br />
 
 # Usage
+**This example does not include all features of the latest version of AnimVerlet plugin. If you would like to check the features of the latest version, please refer to the example of the UE5 version.**<br />
+(This example requires the UE4.27.2 engine)
 
 1. Download AnimVerlet plugin from [GitHub](https://github.com/chonjay21/AnimVerlet)
 2. Put the "AnimVerlet" directory to your Project`s "Plugins" directory
